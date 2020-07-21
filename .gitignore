@@ -1,3 +1,4 @@
+dist
 *.tfstate
 *.tfstate.backup
 *.tfstate.backup*
